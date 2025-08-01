@@ -1,0 +1,173 @@
+{
+  "summary": {
+    "totalGasto": 8270.65,
+    "totalTransacoes": 61,
+    "ticketMedio": 135.50,
+    "totalCategorias": 13,
+    "periodo": "Junho/Julho 2025",
+    "titular": "Marcelo Jose Amador Filho",
+    "cartao": "C6 Carbon"
+  },
+  "categoryData": [
+    { "name": "Supermercados / Mercearia / Padarias / Lojas de Conveniência", "value": 2031.99, "count": 13, "percentage": 24.6 },
+    { "name": "Restaurante / Lanchonete / Bar", "value": 1824.57, "count": 16, "percentage": 22.1 },
+    { "name": "Serviços pessoais", "value": 846.33, "count": 1, "percentage": 10.2 },
+    { "name": "Serviços Profissionais", "value": 755.30, "count": 3, "percentage": 9.1 },
+    { "name": "T&E", "value": 688.72, "count": 1, "percentage": 8.3 },
+    { "name": "Especialidade varejo", "value": 536.68, "count": 3, "percentage": 6.5 },
+    { "name": "Transporte", "value": 464.67, "count": 15, "percentage": 5.6 },
+    { "name": "Assistência médica e odontológica", "value": 374.72, "count": 3, "percentage": 4.5 },
+    { "name": "Elétrico", "value": 295.53, "count": 1, "percentage": 3.6 },
+    { "name": "Relacionados a Automotivo", "value": 266.43, "count": 1, "percentage": 3.2 },
+    { "name": "Marketing Direto", "value": 90.80, "count": 1, "percentage": 1.1 },
+    { "name": "Empresa para empresa", "value": 61.96, "count": 1, "percentage": 0.7 },
+    { "name": "Associação", "value": 32.95, "count": 2, "percentage": 0.4 }
+  ],
+  "detailedTransactions": {
+    "Empresa para empresa": {
+      "total": 61.96,
+      "quantidade": 1,
+      "mediaGasto": 61.96,
+      "transacoes": [
+        {"data": "27/07/2025", "descricao": "PG *ZE DELIVERY ZE DEL", "valor": 61.96, "parcela": "Única", "finalCartao": "2360"}
+      ]
+    },
+    "Serviços pessoais": {
+      "total": 846.33,
+      "quantidade": 1,
+      "mediaGasto": 846.33,
+      "transacoes": [
+        {"data": "17/06/2025", "descricao": "QUINTAU CLUB LTDA", "valor": 846.33, "parcela": "2/3", "finalCartao": "6397"}
+      ]
+    },
+    "Supermercados / Mercearia / Padarias / Lojas de Conveniência": {
+      "total": 2031.99,
+      "quantidade": 13,
+      "mediaGasto": 156.31,
+      "transacoes": [
+        {"data": "27/06/2025", "descricao": "DISTRIBUIDORA DE BEB", "valor": 1000, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "24/06/2025", "descricao": "DISTRIBUIDORA DE BEB", "valor": 200, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "26/06/2025", "descricao": "SUPERMERCADO GREGORIO", "valor": 199.61, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "04/07/2025", "descricao": "SUPERMERCADO GREGORIO", "valor": 193.59, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "12/07/2025", "descricao": "SUPERMERCADO GREGORIO", "valor": 142.22, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "20/07/2025", "descricao": "SUPERMERCADO GREGORIO", "valor": 134.73, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "16/07/2025", "descricao": "SUPERMERCADO GREGORIO", "valor": 68.41, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "28/06/2025", "descricao": "SUPERMERCADO GREGORIO", "valor": 41.98, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "28/06/2025", "descricao": "SUBADQ.*GOIANIA MAGAZI", "valor": 34.3, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "05/07/2025", "descricao": "SUBADQ.*GOIANIA MAGAZI", "valor": 17.15, "parcela": "Única", "finalCartao": "6397"}
+      ]
+    },
+    "Restaurante / Lanchonete / Bar": {
+      "total": 1824.57,
+      "quantidade": 16,
+      "mediaGasto": 114.04,
+      "transacoes": [
+        {"data": "28/06/2025", "descricao": "RESTAURANTE SABOR D CA", "valor": 181.87, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "01/07/2025", "descricao": "RESTAURANTE SABOR D CA", "valor": 181.12, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "02/07/2025", "descricao": "RESTAURANTE SABOR D CA", "valor": 180.62, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "03/07/2025", "descricao": "RESTAURANTE SABOR D CA", "valor": 173.62, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "04/07/2025", "descricao": "RESTAURANTE SABOR D CA", "valor": 173.62, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "08/07/2025", "descricao": "RESTAURANTE SABOR D CA", "valor": 173.62, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "09/07/2025", "descricao": "RESTAURANTE SABOR D CA", "valor": 173.62, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "10/07/2025", "descricao": "RESTAURANTE SABOR D CA", "valor": 173.62, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "11/07/2025", "descricao": "RESTAURANTE SABOR D CA", "valor": 173.62, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "15/07/2025", "descricao": "RESTAURANTE SABOR D CA", "valor": 173.62, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "16/07/2025", "descricao": "RESTAURANTE SABOR D CA", "valor": 55.84, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "17/07/2025", "descricao": "RESTAURANTE SABOR D CA", "valor": 9.84, "parcela": "Única", "finalCartao": "6397"}
+      ]
+    },
+    "Transporte": {
+      "total": 464.67,
+      "quantidade": 15,
+      "mediaGasto": 30.98,
+      "transacoes": [
+        {"data": "25/06/2025", "descricao": "UBER* TRIP", "valor": 50.72, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "19/07/2025", "descricao": "UBER* TRIP", "valor": 42.53, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "18/07/2025", "descricao": "UBER* TRIP", "valor": 41.84, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "17/07/2025", "descricao": "UBER* TRIP", "valor": 40.91, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "15/07/2025", "descricao": "UBER* TRIP", "valor": 36.74, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "09/07/2025", "descricao": "UBER* TRIP", "valor": 36.56, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "04/07/2025", "descricao": "UBER* TRIP", "valor": 33.87, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "11/07/2025", "descricao": "UBER* TRIP", "valor": 30.91, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "08/07/2025", "descricao": "UBER* TRIP", "valor": 29.21, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "12/07/2025", "descricao": "UBER* TRIP", "valor": 28.23, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "16/07/2025", "descricao": "UBER* TRIP", "valor": 28.12, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "10/07/2025", "descricao": "UBER* TRIP", "valor": 25.48, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "02/07/2025", "descricao": "UBER* TRIP", "valor": 24.36, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "28/06/2025", "descricao": "UBER* TRIP", "valor": 22.79, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "03/07/2025", "descricao": "UBER* TRIP", "valor": 13.4, "parcela": "Única", "finalCartao": "6397"}
+      ]
+    },
+    "Serviços Profissionais": {
+      "total": 755.3,
+      "quantidade": 3,
+      "mediaGasto": 251.77,
+      "transacoes": [
+        {"data": "22/07/2025", "descricao": "MP *SERVICO ADVOGADO", "valor": 445.3, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "05/07/2025", "descricao": "PAYPAL *UPWORK", "valor": 160, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "09/07/2025", "descricao": "PAYPAL *UPWORK", "valor": 150, "parcela": "Única", "finalCartao": "6397"}
+      ]
+    },
+    "T&E": {
+      "total": 688.72,
+      "quantidade": 1,
+      "mediaGasto": 688.72,
+      "transacoes": [
+        {"data": "09/07/2025", "descricao": "DECOLAR.COM", "valor": 688.72, "parcela": "Única", "finalCartao": "6397"}
+      ]
+    },
+    "Especialidade varejo": {
+      "total": 536.68,
+      "quantidade": 3,
+      "mediaGasto": 178.89,
+      "transacoes": [
+        {"data": "15/07/2025", "descricao": "LOJA FISICA MAGALU", "valor": 234.9, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "05/07/2025", "descricao": "LOJA FISICA MAGALU", "valor": 234.9, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "11/07/2025", "descricao": "PG *LOJA ON LINE", "valor": 66.88, "parcela": "Única", "finalCartao": "6397"}
+      ]
+    },
+    "Assistência médica e odontológica": {
+      "total": 374.72,
+      "quantidade": 3,
+      "mediaGasto": 124.91,
+      "transacoes": [
+        {"data": "11/07/2025", "descricao": "MP *CONSULTORIO MEDICO", "valor": 300, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "08/07/2025", "descricao": "FARMACIA SAO LUCAS", "valor": 37.36, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "02/07/2025", "descricao": "FARMACIA SAO LUCAS", "valor": 37.36, "parcela": "Única", "finalCartao": "6397"}
+      ]
+    },
+    "Elétrico": {
+      "total": 295.53,
+      "quantidade": 1,
+      "mediaGasto": 295.53,
+      "transacoes": [
+        {"data": "15/07/2025", "descricao": "ENEL DISTRIBUICAO GO", "valor": 295.53, "parcela": "Única", "finalCartao": "6397"}
+      ]
+    },
+    "Relacionados a Automotivo": {
+      "total": 266.43,
+      "quantidade": 1,
+      "mediaGasto": 266.43,
+      "transacoes": [
+        {"data": "28/06/2025", "descricao": "POSTO BRASPETRO", "valor": 266.43, "parcela": "Única", "finalCartao": "6397"}
+      ]
+    },
+    "Marketing Direto": {
+      "total": 90.8,
+      "quantidade": 1,
+      "mediaGasto": 90.8,
+      "transacoes": [
+        {"data": "22/07/2025", "descricao": "MP *WOOCOMMERCE", "valor": 90.8, "parcela": "Única", "finalCartao": "6397"}
+      ]
+    },
+    "Associação": {
+      "total": 32.95,
+      "quantidade": 2,
+      "mediaGasto": 16.48,
+      "transacoes": [
+        {"data": "15/07/2025", "descricao": "PIX*FEDERACAO GOIANA", "valor": 16.95, "parcela": "Única", "finalCartao": "6397"},
+        {"data": "15/07/2025", "descricao": "PIX*FEDERACAO GOIANA", "valor": 16, "parcela": "Única", "finalCartao": "6397"}
+      ]
+    }
+  }
+}

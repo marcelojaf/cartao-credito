@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análise de Gastos - Cartão C6 Carbon</title>
+    
+    <!-- External Dependencies -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+    
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header Section -->
+        <div class="header">
+            <h1>💳 Análise de Gastos</h1>
+            <p>Cartão C6 Carbon - Marcelo Jose Amador Filho</p>
+        </div>
+
+        <!-- Summary Cards -->
+        <div class="summary">
+            <div class="summary-card">
+                <h3>Total Gasto</h3>
+                <div class="value currency">Carregando...</div>
+            </div>
+            <div class="summary-card">
+                <h3>Total de Transações</h3>
+                <div class="value">Carregando...</div>
+            </div>
+            <div class="summary-card">
+                <h3>Ticket Médio</h3>
+                <div class="value currency">Carregando...</div>
+            </div>
+            <div class="summary-card">
+                <h3>Categorias</h3>
+                <div class="value">Carregando...</div>
+            </div>
+        </div>
+
+        <!-- Charts Section -->
+        <div class="charts-section">
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <h3>📊 Gastos por Categoria</h3>
+                    <div class="chart-canvas">
+                        <canvas id="pieChart"></canvas>
+                    </div>
+                </div>
+                <div class="chart-container">
+                    <h3>📈 Top 10 Categorias</h3>
+                    <div class="chart-canvas">
+                        <canvas id="barChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Category Details Section -->
+        <div class="details-section">
+            <div class="details-header">
+                <h3>📋 Detalhamento por Categoria</h3>
+            </div>
+            <div id="categoryDetails" class="loading">
+                Carregando dados...
+            </div>
+        </div>
+    </div>
+
+    <!-- Custom Scripts -->
+    <script src="./assets/js/dashboard.js"></script>
+</body>
+</html>
